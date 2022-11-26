@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="locationDialogTitle">Enable Location?</string>
+    <string name="searchDialogTitle">City name:</string>
+    <string name="locationDialogMessage">Location disable. Do you want enable location?</string>
+
+
+</resources>
